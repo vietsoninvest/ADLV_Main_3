@@ -4,6 +4,6 @@ Steps to update:
 3. Save cleaned file separately in the 'data' folder.
 4. Use JSon_Converter.ipynb to convert: update cleaned file directory. Make sure the new files are in correct folder of the corresponding years.
 5. Update 'index.HTML', make sure it covers new data in `const jsonFiles`
-6. Password script has been obsfucated, password used hashcode to convert. 
-7. Whenever update, input the day of update at the first element of `main script` in `index.HTML`
-8. Last update date element: lastUpdatedDate
+6. Password script has been obsfucated, hashcode is used to convert. 
+7. Whenever there is an update, input the day of update at the first element of `main script` in `index.HTML`
+8. Last-update-date element: lastUpdatedDate
